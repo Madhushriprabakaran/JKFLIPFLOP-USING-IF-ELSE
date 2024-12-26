@@ -85,3 +85,4 @@ RegisterNumber:24005365
 
 **RESULTS**
 JK flipflop using verilog is verified.
+
